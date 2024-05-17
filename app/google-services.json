@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845246212404",
+    "project_id": "malkia-cfd9b",
+    "storage_bucket": "malkia-cfd9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845246212404:android:b37a658db898edae691d61",
+        "android_client_info": {
+          "package_name": "com.jane.malkia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWetldFnw5BGv080_4SwDA7Ch_q6iTOBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
